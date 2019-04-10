@@ -1,6 +1,6 @@
 # AcessoBio Frame de captura
 
-Este projeto contém exemplos de como iniciar a câmera e capturar imagens em dispositivos móveis, rodando o sistema operacional iOS, de forma a atender os padrões de captura biométrica exigidos pela ACESSO DIGITAL. Este projeto foi desenvolvido na linguagem Swift utilizando a ferramenta XCode.
+Este projeto contém exemplos de como iniciar a câmera e capturar imagens em dispositivos móveis, rodando o sistema operacional iOS, de forma a atender os padrões de captura biométrica exigidos pela ACESSO DIGITAL. Este projeto foi desenvolvido na linguagem Swift utilizando a ferramenta Xcode.
 
 Disponibilizamos o projeto também sob a linguagem [Objective-C](https://github.com/acesso-io/acessobio-iosframe).
 
