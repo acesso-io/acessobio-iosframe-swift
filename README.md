@@ -18,7 +18,7 @@ Abra o projeto de exemplo no Xcode e copie o código do arquivo ```FaceCaptureVi
 
 ## Autores
 
-* **Acesso Digital - Bio Squad** - *Soluções* - [Git Bio](https://github.com/PurpleBooth)
+* **Acesso Digital - Bio Squad** - *Soluções* - [Git Bio](https://github.com/acesso-io)
 
 Veja a lista dos [contribuidores](https://github.com/acesso-io/acessobio-iosframe-swift/contributors) que participaram deste projeto. 
 
